@@ -218,11 +218,17 @@ iframe {
 }
 
 .reg {
-    display: flex;
-    justify-content: center;
+    padding-left: 30%;
+    padding-right: 30%;
 }
 
 .regh1 {
+    color: White;
     padding-left: 30%;
     padding-right: 30%;
+}
+
+#submit {
+    margin-left: 30%;
+    margin-right: 30%;
 }
