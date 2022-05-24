@@ -212,7 +212,17 @@ iframe {
     padding-right: 5%;
 }
 
-fb {
+.fb {
     height: 80%;
     width: 5px
+}
+
+.reg {
+    display: flex;
+    justify-content: center;
+}
+
+.regh1 {
+    padding-left: 30%;
+    padding-right: 30%;
 }
