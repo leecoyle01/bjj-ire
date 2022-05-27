@@ -31,14 +31,19 @@ body {
 }
 
 .head-text {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: blueviolet ;
+    border-radius: 10%;
+    padding: 0 2% 0 2%;
     text-align: center;
-    height: 30%;
-    width: 50%;
-    background:rgb(171, 46, 255);
 }
 
+
+
 h1 {
-    font-family:'Courier New', Courier, monospace;
+    font-family: Courier, monospace;
+
 }
 
 .intro-p {
@@ -213,7 +218,7 @@ li {
 iframe {
     height: 100%;
     width: 50%;
-    padding-right: 5%;
+    margin-right: 5%;
 }
 
 .fb {
